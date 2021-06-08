@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ulan264, my name is Ulan.
 - 👀 I’m interested in developing the telegram bots.
 - 🌱 I’m currently learning: Python, Telegram Chat-bot development.
-- 💞️ I’m looking to collaborate on new telegram bot.
 - 📫 How to reach me: Telegram - @enganese.
 
 <!---
