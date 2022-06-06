@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @enganese, my name is Ulan.
-- 👀 I’m interested in developing the telegram bots.
-- 🌱 I’m currently learning: Python, Telegram Chat-bot development.
-- 📫 How to reach me: Telegram - @enganese.
-
-<!---
-ulan264/ulan264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in developing a telegram bots, mobile apps, automation scripts, desktop apps.
+- 🌱 I’m currently learning: Python, Typescript, Kotlin.
+- 📫 How to reach me: 
+- 🛩️ Telegram - [@enganese](https://t.me/enganese)
+- 🐦 Twitter - [@WorstPlayerUlxn](https://twitter.com/WorstPlayerUlxn)
