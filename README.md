@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enganese, my name is Ulan.
 - 👀 I’m interested in developing a telegram bots, mobile apps, automation scripts, desktop apps.
-- 🌱 I’m currently learning: Python, JS, Rust, Java.
+- 🌱 I’m currently learning: Python, JS(Node.JS, Typescript), Java.
 - 📫 How to reach me: 
 - 🛩️ Telegram - [@enganese](https://t.me/enganese)
 - 🐦 Twitter - [@WorstPlayerUlxn](https://twitter.com/WorstPlayerUlxn)
