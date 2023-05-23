@@ -1,5 +1,6 @@
 ### About Me ⤵️
 ➡️ 🎓 Future IT Student of Heriot-Watt University Dubai
+
 ➡️ 🌱 I’m currently learning Python. Interested in JavaScript / NodeJS / TS, also.
 
 
