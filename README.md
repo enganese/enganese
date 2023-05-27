@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Intelligible variable naming is the first step towards clean code</h2></summary>
   </ul>
 </div>
 
@@ -34,7 +34,7 @@
 
 -  💼 I usually work on startup projects with my team
 
-- 💬 Ask me about **React Native, Node.js, PostgreSQL, SQLAlchemy ORM, **
+- 💬 Ask me about **Aiogram, Telegram Bot API, Flask, FastAPI, React Native, PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
 
 - 📫 Feel free to reach me out **[Email](mailto://enganese@vk.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
 <!--Intro end-->
@@ -50,7 +50,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=enganese&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=enganese&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Streak stats of enganese" alt="🔥 Streak stats of enganese" src="https://github-readme-streak-stats.herokuapp.com/?user=enganese&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -64,8 +64,8 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=enganese&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Check trophy">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=enganese&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
     </a>
 </div>
 <!--- trophy (start) -->
