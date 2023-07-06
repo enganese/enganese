@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **Aiogram, Telegram Bot API, Flask, FastAPI, React Native, PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
 
-- 📫 Feel free to reach me out **[Email](mailto://enganese@vk.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
+- 📫 Feel free to reach me out **[Email](mailto://b-android@mail.ru) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
 <!--Intro end-->
 
 
