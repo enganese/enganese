@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in developing telegram bots and mobile applications. So, I'm learning **Python, Node.js, TypeScript**
 
--  💼 I usually work on startup project with my team and contribute to open-source repositorties to help people and develop innovative technologies
+-  💼 I usually work on startup project with my team and contribute to open-source to help people and develop innovations
 
 - 💬 Ask me about **Aiogram, Telegram Bot API, Flask, FastAPI, React Native, PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
 
