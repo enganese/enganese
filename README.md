@@ -36,7 +36,7 @@
 
 - 💬 Ask me about developing **complex telegram bots, mobile apps, back-end, architecture design and startup**
 
-- 📫 Feel free to reach me out **[Email](mailto://ulanaitbay67@gmail.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
+- 📫 Feel free to reach me out **[Email](mailto:ulanaitbay67@gmail.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
 <!--Intro end-->
 
 
