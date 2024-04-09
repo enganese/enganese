@@ -26,17 +26,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Node.js**
+- 🔭 I’m currently working on **Python, Node.js**.
 
-- 🌱 I’m currently learning **to develop mobile apps on React Native.**
+- 🌱 I’m currently learning **to be a great CTO**.
 
-- ☁️ I've keen interest in developing telegram bots and mobile applications. So, I'm learning **Python, Node.js, TypeScript**
+- ☁️ I've keen interest in creating startups, especially in developing innovative solutions. So, I learn whatever business idea requires to learn.
 
--  💼 I usually work on startup project with my team and contribute to open-source to help people develop innovations
+-  💼 I usually work on startup project with my team and contribute to open-source to help people develop innovations.
 
-- 💬 Ask me about **Aiogram, Telegram Bot API, Flask, FastAPI, React Native, PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
+- 💬 Ask me about developing **complex telegram bots, mobile apps, back-end, architecture design and startup**
 
-- 📫 Feel free to reach me out **[Email](mailto://b-android@mail.ru) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
+- 📫 Feel free to reach me out **[Email](mailto://ulanaitbay67@gmail.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269)**
 <!--Intro end-->
 
 
