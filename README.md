@@ -90,7 +90,9 @@
 
 <!--profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=enganese&icon=3&color=6)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=enganese&icon=3&color=6" alt="visitor count" />
+  </a>
 </div>
 
 <!--horizontal divider(gradiant)-->
