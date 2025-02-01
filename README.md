@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Node.js**.
+- 🔭 I’m currently working on **my own commercial projects**.
 
 - 🌱 I’m currently learning **to be a great CTO**.
 
